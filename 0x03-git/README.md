@@ -1,1 +1,1 @@
-A none empty readme
+This is a non-empty readme
